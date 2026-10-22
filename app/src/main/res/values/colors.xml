@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Theme Colors -->
+    <color name="primary">#D32F2F</color>
+    <color name="primary_dark">#B71C1C</color>
+    <color name="primary_light">#FFEBEE</color>
+    <color name="accent">#FF9800</color>
+
+    <!-- Backgrounds -->
+    <color name="bg_main">#F5F5F5</color>
+    <color name="card_bg">#FFFFFF</color>
+
+    <!-- Table & Order Status Colors -->
+    <color name="status_libre">#2E7D32</color>          <!-- Dark Green -->
+    <color name="status_libre_bg">#E8F5E9</color>       <!-- Light Green -->
+    <color name="status_ocupada">#C62828</color>        <!-- Dark Red -->
+    <color name="status_ocupada_bg">#FFEBEE</color>     <!-- Light Red -->
+    <color name="status_cuenta">#EF6C00</color>         <!-- Orange -->
+    <color name="status_cuenta_bg">#FFF3E0</color>      <!-- Light Orange -->
+    <color name="status_pagada">#1565C0</color>         <!-- Blue -->
+    <color name="status_pagada_bg">#E3F2FD</color>      <!-- Light Blue -->
+
+    <!-- Product Status Colors -->
+    <color name="status_disponible">#2E7D32</color>
+    <color name="status_agotado">#757575</color>
+    <color name="status_agotado_bg">#EEEEEE</color>
+
+    <!-- Kitchen Status Colors -->
+    <color name="kitchen_pendiente">#D81B60</color>
+    <color name="kitchen_preparacion">#F57C00</color>
+    <color name="kitchen_listo">#388E3C</color>
+    <color name="kitchen_entregado">#1976D2</color>
+    <color name="kitchen_cancelado">#D32F2F</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#666666</color>
+    <color name="text_hint">#9E9E9E</color>
+</resources>
